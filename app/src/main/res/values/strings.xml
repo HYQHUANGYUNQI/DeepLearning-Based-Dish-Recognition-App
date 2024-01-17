@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MessHall</string>
+    <string-array name="schoolname">
+        <item>天津大学</item>
+
+    </string-array>
+</resources>
